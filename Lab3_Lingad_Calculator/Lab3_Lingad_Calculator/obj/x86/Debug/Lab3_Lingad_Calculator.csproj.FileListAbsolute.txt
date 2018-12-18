@@ -1,0 +1,7 @@
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\obj\x86\Debug\Lab3_Lingad_Calculator.Form1.resources
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\obj\x86\Debug\Lab3_Lingad_Calculator.Properties.Resources.resources
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\obj\x86\Debug\Lab3_Lingad_Calculator.csproj.GenerateResource.Cache
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\bin\Debug\Lab3_Lingad_Calculator.exe
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\bin\Debug\Lab3_Lingad_Calculator.pdb
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\obj\x86\Debug\Lab3_Lingad_Calculator.exe
+C:\Users\Lingad\AppData\Local\Temporary Projects\Lab3_Lingad_Calculator\obj\x86\Debug\Lab3_Lingad_Calculator.pdb
