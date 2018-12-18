@@ -1,0 +1,6 @@
+C:\Users\Lingad\AppData\Local\Temporary Projects\FinalsLab1_Lingad\bin\Debug\FinalsLab1_Lingad.exe
+C:\Users\Lingad\AppData\Local\Temporary Projects\FinalsLab1_Lingad\bin\Debug\FinalsLab1_Lingad.pdb
+C:\Users\Lingad\AppData\Local\Temporary Projects\FinalsLab1_Lingad\obj\x86\Debug\FinalsLab1_Lingad.exe
+C:\Users\Lingad\AppData\Local\Temporary Projects\FinalsLab1_Lingad\obj\x86\Debug\FinalsLab1_Lingad.pdb
+C:\Users\Lingad\documents\visual studio 2010\Projects\FinalsLab1_Lingad\FinalsLab1_Lingad\obj\x86\Debug\FinalsLab1_Lingad.exe
+C:\Users\Lingad\documents\visual studio 2010\Projects\FinalsLab1_Lingad\FinalsLab1_Lingad\obj\x86\Debug\FinalsLab1_Lingad.pdb
